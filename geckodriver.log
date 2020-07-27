@@ -1,0 +1,785 @@
+1595514330801	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/q39n7fp50g7188j2sryl5mwr0000gn/T/rust_mozprofileuSsOxo"
+1595514332777	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595514333086	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595514333086	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595514333086	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595514333086	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595514334569	Marionette	INFO	Listening on port 52451
+1595514334636	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2664: TypeError: browsingContext.embedderElement.getTabBrowser is not a function
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2664: TypeError: browsingContext.embedderElement.getTabBrowser is not a function
+JavaScript error: resource://devtools/server/actors/network-monitor/network-response-listener.js, line 84: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIInterfaceRequestor.getInterface]
+JavaScript error: resource://devtools/server/actors/network-monitor/network-response-listener.js, line 84: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIInterfaceRequestor.getInterface]
+JavaScript error: resource://devtools/server/actors/network-monitor/network-response-listener.js, line 84: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIInterfaceRequestor.getInterface]
+JavaScript error: resource://devtools/server/actors/network-monitor/network-response-listener.js, line 84: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIInterfaceRequestor.getInterface]
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2664: TypeError: browsingContext.embedderElement.getTabBrowser is not a function
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2664: TypeError: browsingContext.embedderElement.getTabBrowser is not a function
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2664: TypeError: browsingContext.embedderElement.getTabBrowser is not a function
+1595515878314	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/q39n7fp50g7188j2sryl5mwr0000gn/T/rust_mozprofileofV77z"
+1595515878791	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595515879091	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595515879091	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595515879091	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595515879091	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595515880533	Marionette	INFO	Listening on port 58886
+1595515880574	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595515944022	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/q39n7fp50g7188j2sryl5mwr0000gn/T/rust_mozprofiledtLSYY"
+1595515944412	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595515944704	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595515944704	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595515944704	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595515944704	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595515946131	Marionette	INFO	Listening on port 59211
+1595515946171	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595515978306	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/q39n7fp50g7188j2sryl5mwr0000gn/T/rust_mozprofileTVR6fb"
+1595515978685	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595515978978	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595515978978	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595515978978	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595515978978	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595515980445	Marionette	INFO	Listening on port 59403
+1595515980458	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595516120357	Marionette	INFO	Stopped listening on port 52451
+1595516126122	Marionette	INFO	Stopped listening on port 58886
+1595516128507	Marionette	INFO	Stopped listening on port 59403
+1595516130328	Marionette	INFO	Stopped listening on port 59211
+1595516170855	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/q39n7fp50g7188j2sryl5mwr0000gn/T/rust_mozprofilehNzQ4w"
+1595516171312	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595516171601	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595516171601	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595516171601	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595516171601	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595516173054	Marionette	INFO	Listening on port 59777
+1595516173130	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595516211894	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/q39n7fp50g7188j2sryl5mwr0000gn/T/rust_mozprofileZD1dLc"
+1595516212203	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595516212499	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595516212500	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595516212500	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595516212500	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595516213822	Marionette	INFO	Listening on port 59842
+1595516213848	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595516239262	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/q39n7fp50g7188j2sryl5mwr0000gn/T/rust_mozprofile4bsu1E"
+1595516239566	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595516239864	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595516239864	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595516239864	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595516239864	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595516241406	Marionette	INFO	Listening on port 59904
+1595516241425	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595516372095	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/q39n7fp50g7188j2sryl5mwr0000gn/T/rust_mozprofilebZQd05"
+1595516372405	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595516372706	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595516372706	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595516372706	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595516372707	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595516374050	Marionette	INFO	Listening on port 59973
+1595516374060	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595516578308	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/q39n7fp50g7188j2sryl5mwr0000gn/T/rust_mozprofile2rvLcf"
+1595516578740	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595516579031	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595516579031	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595516579032	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595516579032	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595516580400	Marionette	INFO	Listening on port 60078
+1595516580469	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595516598208	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/q39n7fp50g7188j2sryl5mwr0000gn/T/rust_mozprofile83PmaC"
+1595516598625	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595516598929	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595516598929	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595516598929	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595516598929	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595516600362	Marionette	INFO	Listening on port 60140
+1595516600373	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595516644955	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/q39n7fp50g7188j2sryl5mwr0000gn/T/rust_mozprofile4DyIjY"
+1595516645341	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595516645635	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595516645635	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595516645635	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595516645635	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595516647016	Marionette	INFO	Listening on port 60213
+1595516647114	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Object
+1595522752349	Marionette	INFO	Stopped listening on port 59777
+1595522755037	Marionette	INFO	Stopped listening on port 59842
+1595522757939	Marionette	INFO	Stopped listening on port 60078
+1595522760607	Marionette	INFO	Stopped listening on port 59973
+1595522762803	Marionette	INFO	Stopped listening on port 60140
+1595522764895	Marionette	INFO	Stopped listening on port 60213
+1595522940987	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/q39n7fp50g7188j2sryl5mwr0000gn/T/rust_mozprofileNz5rOE"
+1595522941494	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595522941799	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595522941799	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595522941799	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595522941799	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595522943187	Marionette	INFO	Listening on port 62815
+1595522943246	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595524480084	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/q39n7fp50g7188j2sryl5mwr0000gn/T/rust_mozprofileHNu26N"
+1595524480515	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595524480811	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595524480811	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595524480811	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595524480811	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595524482125	Marionette	INFO	Listening on port 52091
+1595524482135	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595524653977	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/q39n7fp50g7188j2sryl5mwr0000gn/T/rust_mozprofiledf17Ln"
+1595524654292	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595524654583	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595524654583	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595524654583	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595524654584	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595524656089	Marionette	INFO	Listening on port 52880
+1595524656137	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595524795070	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/q39n7fp50g7188j2sryl5mwr0000gn/T/rust_mozprofileh62U0E"
+1595524795384	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595524795684	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595524795684	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595524795684	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595524795684	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595524797034	Marionette	INFO	Listening on port 53513
+1595524797127	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595524911917	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/q39n7fp50g7188j2sryl5mwr0000gn/T/rust_mozprofilepQ6gmb"
+1595524912390	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595524912706	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595524912706	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595524912706	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595524912706	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595524914067	Marionette	INFO	Listening on port 54073
+1595524914168	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595524932425	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/q39n7fp50g7188j2sryl5mwr0000gn/T/rust_mozprofileovPJki"
+1595524932744	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595524933042	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595524933043	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595524933043	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595524933043	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595524934367	Marionette	INFO	Listening on port 54219
+1595524934390	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595525543468	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/q39n7fp50g7188j2sryl5mwr0000gn/T/rust_mozprofileIvoL2w"
+1595525544019	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595525544314	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595525544314	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595525544314	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595525544314	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595525545700	Marionette	INFO	Listening on port 56869
+1595525545727	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595525650172	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/q39n7fp50g7188j2sryl5mwr0000gn/T/rust_mozprofileRHwZDU"
+1595525650552	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595525650847	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595525650848	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595525650848	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595525650848	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595525652249	Marionette	INFO	Listening on port 57393
+1595525652329	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595525692638	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/q39n7fp50g7188j2sryl5mwr0000gn/T/rust_mozprofileirE4PE"
+1595525692997	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595525693292	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595525693292	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595525693292	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595525693292	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595525694716	Marionette	INFO	Listening on port 57629
+1595525694791	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595525742245	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/q39n7fp50g7188j2sryl5mwr0000gn/T/rust_mozprofile3701IR"
+1595525742707	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595525743008	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595525743008	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595525743008	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595525743008	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595525744370	Marionette	INFO	Listening on port 57892
+1595525744426	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595525792473	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/q39n7fp50g7188j2sryl5mwr0000gn/T/rust_mozprofileZv22jA"
+1595525792907	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595525793197	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595525793197	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595525793197	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595525793197	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595525794664	Marionette	INFO	Listening on port 58167
+1595525794732	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595525935407	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/q39n7fp50g7188j2sryl5mwr0000gn/T/rust_mozprofileNiDQ4F"
+1595525935777	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595525936070	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595525936070	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595525936070	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595525936070	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595525937474	Marionette	INFO	Listening on port 58821
+1595525937559	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595525979449	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/q39n7fp50g7188j2sryl5mwr0000gn/T/rust_mozprofileh6yJxo"
+1595525979854	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595525980151	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595525980151	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595525980151	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595525980151	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595525981545	Marionette	INFO	Listening on port 59069
+1595525981605	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595526020169	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/q39n7fp50g7188j2sryl5mwr0000gn/T/rust_mozprofile6WnPBX"
+1595526020561	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595526020861	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595526020861	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595526020861	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595526020861	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595526022241	Marionette	INFO	Listening on port 59298
+1595526022332	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595526088679	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/q39n7fp50g7188j2sryl5mwr0000gn/T/rust_mozprofile4YaY54"
+1595526089180	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595526089477	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595526089477	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595526089478	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595526089478	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595526090894	Marionette	INFO	Listening on port 59663
+1595526090954	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595526130668	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/q39n7fp50g7188j2sryl5mwr0000gn/T/rust_mozprofileRwVU7U"
+1595526131076	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595526131368	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595526131368	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595526131368	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595526131368	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595526132769	Marionette	INFO	Listening on port 59897
+1595526132824	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1595527518892	Marionette	INFO	Stopped listening on port 53513
+1595527521222	Marionette	INFO	Stopped listening on port 54073
+1595527523128	Marionette	INFO	Stopped listening on port 54219
+1595527524835	Marionette	INFO	Stopped listening on port 62815
+1595527795474	Marionette	INFO	Stopped listening on port 52880
+1595527798575	Marionette	INFO	Stopped listening on port 57629
+1595527802112	Marionette	INFO	Stopped listening on port 57892
+1595527804703	Marionette	INFO	Stopped listening on port 58167
+1595527807714	Marionette	INFO	Stopped listening on port 58821
+1595527814805	Marionette	INFO	Stopped listening on port 56869
+1595527817623	Marionette	INFO	Stopped listening on port 57393
+1595527822029	Marionette	INFO	Stopped listening on port 59069
+1595527828524	Marionette	INFO	Stopped listening on port 59904
+1595527834936	Marionette	INFO	Stopped listening on port 59663
+1595527838141	Marionette	INFO	Stopped listening on port 59298
+1595527840829	Marionette	INFO	Stopped listening on port 52091
+1595527842699	Marionette	INFO	Stopped listening on port 59897
+1595662228374	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/q39n7fp50g7188j2sryl5mwr0000gn/T/rust_mozprofile6ckNSB"
+1595662229008	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595662229364	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595662229364	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595662229365	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595662229365	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595662230955	Marionette	INFO	Listening on port 55294
+1595662231055	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595664225707	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/q39n7fp50g7188j2sryl5mwr0000gn/T/rust_mozprofileCIBEgg"
+1595664226259	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595664226604	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595664226604	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595664226604	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595664226604	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595664228011	Marionette	INFO	Listening on port 58459
+1595664228090	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595664320930	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/q39n7fp50g7188j2sryl5mwr0000gn/T/rust_mozprofileskV785"
+1595664321381	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595664321701	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595664321701	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595664321701	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595664321701	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595664323064	Marionette	INFO	Listening on port 58662
+1595664323112	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595664349912	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/q39n7fp50g7188j2sryl5mwr0000gn/T/rust_mozprofileWQl7cd"
+1595664350329	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595664350639	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595664350640	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595664350640	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595664350640	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595664351969	Marionette	INFO	Listening on port 58766
+1595664351983	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595664382947	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/q39n7fp50g7188j2sryl5mwr0000gn/T/rust_mozprofileIzJFq6"
+1595664383262	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595664383571	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595664383571	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595664383571	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595664383571	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595664385011	Marionette	INFO	Listening on port 58867
+1595664385030	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595664417707	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/q39n7fp50g7188j2sryl5mwr0000gn/T/rust_mozprofileJg6N7S"
+1595664418091	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595664418404	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595664418404	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595664418404	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595664418404	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595664419723	Marionette	INFO	Listening on port 58978
+1595664419781	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595664438517	Marionette	INFO	Stopped listening on port 58459
+1595664440536	Marionette	INFO	Stopped listening on port 58662
+1595664442174	Marionette	INFO	Stopped listening on port 58766
+1595664455152	Marionette	INFO	Stopped listening on port 58867
+1595664469244	Marionette	INFO	Stopped listening on port 58978
+1595664472372	Marionette	INFO	Stopped listening on port 55294
+1595664906577	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/q39n7fp50g7188j2sryl5mwr0000gn/T/rust_mozprofilebGseGS"
+1595664910199	Marionette	INFO	Listening on port 60071
+1595664930478	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/q39n7fp50g7188j2sryl5mwr0000gn/T/rust_mozprofilefB2K3Q"
+1595664932267	Marionette	INFO	Listening on port 60139
+1595664932355	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595664960448	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/q39n7fp50g7188j2sryl5mwr0000gn/T/rust_mozprofilefz7uXc"
+1595664962201	Marionette	INFO	Listening on port 60248
+1595664962221	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595665077724	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/q39n7fp50g7188j2sryl5mwr0000gn/T/rust_mozprofilejtJ1hx"
+1595665079596	Marionette	INFO	Listening on port 60512
+1595665079603	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595665206667	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/q39n7fp50g7188j2sryl5mwr0000gn/T/rust_mozprofile5JfYKJ"
+1595665208549	Marionette	INFO	Listening on port 60777
+1595665208634	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1595665461986	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/q39n7fp50g7188j2sryl5mwr0000gn/T/rust_mozprofileyKAyK0"
+1595665463933	Marionette	INFO	Listening on port 61369
+1595665463940	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595665518721	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/q39n7fp50g7188j2sryl5mwr0000gn/T/rust_mozprofileCLxw2z"
+1595665520643	Marionette	INFO	Listening on port 61532
+1595665520706	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595665563485	Marionette	INFO	Stopped listening on port 61532
+1595665564304	Marionette	INFO	Stopped listening on port 61369
+1595665569902	Marionette	INFO	Stopped listening on port 60512
+1595665571239	Marionette	INFO	Stopped listening on port 60248
+1595665572825	Marionette	INFO	Stopped listening on port 60139
+1595665671362	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/q39n7fp50g7188j2sryl5mwr0000gn/T/rust_mozprofilexCA23s"
+1595665673090	Marionette	INFO	Listening on port 61826
+1595665673123	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595665717938	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/q39n7fp50g7188j2sryl5mwr0000gn/T/rust_mozprofilech0YAY"
+1595665719796	Marionette	INFO	Listening on port 61954
+1595665719802	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595665745319	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/q39n7fp50g7188j2sryl5mwr0000gn/T/rust_mozprofile9Kvpxe"
+1595665747079	Marionette	INFO	Listening on port 62068
+1595665747100	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript error: resource://devtools/client/inspector/flexbox/flexbox.js, line 55: TypeError: this.inspector is null
+JavaScript error: resource://devtools/client/inspector/grids/grid-inspector.js, line 104: TypeError: this.inspector is null
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1595666092690	Marionette	INFO	Stopped listening on port 60071
+1595666099273	Marionette	INFO	Stopped listening on port 61826
+1595666101741	Marionette	INFO	Stopped listening on port 61954
+1595666105512	Marionette	INFO	Stopped listening on port 62068
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript error: resource://devtools/client/inspector/boxmodel/box-model.js, line 463: TypeError: this.inspector.selection.nodeFront is undefined
+1595666345756	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/q39n7fp50g7188j2sryl5mwr0000gn/T/rust_mozprofilefQsd7M"
+1595666347605	Marionette	INFO	Listening on port 63081
+1595666347623	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595666404076	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/q39n7fp50g7188j2sryl5mwr0000gn/T/rust_mozprofilealtgtO"
+1595666405905	Marionette	INFO	Listening on port 63228
+1595666405937	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595666417666	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:853:16
+dispatch/</req<@chrome://marionette/content/listener.js:527:14
+dispatch/<@chrome://marionette/content/listener.js:520:15
+1595666417668	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+1595666417668	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+1595666417669	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+1595666417670	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+1595666417672	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+JavaScript error: chrome://browser/content/tabbrowser.js, line 5442: TypeError: browser.contentPrincipal is undefined
+JavaScript error: chrome://browser/content/tabbrowser.js, line 5442: TypeError: browser.contentPrincipal is undefined
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:409:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2245))
+JavaScript error: https://www.instagram.com/static/bundles/es6/DirectMQTT.js/a793dcf91a8f.js, line 14: Error: Publish Timed Out
+JavaScript error: https://www.instagram.com/static/bundles/es6/DirectMQTT.js/a793dcf91a8f.js, line 14: Error: Publish Timed Out
+1595666686375	Marionette	INFO	Stopped listening on port 63081
+JavaScript error: chrome://browser/content/tabbrowser.js, line 5442: TypeError: browser.contentPrincipal is undefined
+JavaScript error: chrome://browser/content/tabbrowser.js, line 5442: TypeError: browser.contentPrincipal is undefined
+JavaScript error: chrome://browser/content/tabbrowser.js, line 5442: TypeError: browser.contentPrincipal is undefined
+1595666903923	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/q39n7fp50g7188j2sryl5mwr0000gn/T/rust_mozprofileHeaCtV"
+1595666905800	Marionette	INFO	Listening on port 49305
+1595666905888	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595666931430	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/q39n7fp50g7188j2sryl5mwr0000gn/T/rust_mozprofilef2y5AQ"
+1595666933233	Marionette	INFO	Listening on port 49516
+1595666933295	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595667420811	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/q39n7fp50g7188j2sryl5mwr0000gn/T/rust_mozprofileQCsfPx"
+1595667422764	Marionette	INFO	Listening on port 52230
+1595667422782	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595667552678	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/q39n7fp50g7188j2sryl5mwr0000gn/T/rust_mozprofilelY6FZC"
+1595667554496	Marionette	INFO	Listening on port 52999
+1595667554539	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595667601435	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/q39n7fp50g7188j2sryl5mwr0000gn/T/rust_mozprofileMbS3T8"
+1595667603402	Marionette	INFO	Listening on port 53313
+1595667603486	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://devtools/client/responsive/browser/tunnel.js, line 570: TypeError: this.innerParentMM is null
+1595667615363	Marionette	INFO	Stopped listening on port 63228
+1595667617209	Marionette	INFO	Stopped listening on port 49305
+1595667619012	Marionette	INFO	Stopped listening on port 49516
+1595667623583	Marionette	INFO	Stopped listening on port 52230
+1595667625385	Marionette	INFO	Stopped listening on port 52999
+1595667628205	Marionette	INFO	Stopped listening on port 53313
+1595667634335	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/q39n7fp50g7188j2sryl5mwr0000gn/T/rust_mozprofile0nx0q8"
+1595667636111	Marionette	INFO	Listening on port 53545
+1595667636201	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595667654452	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/q39n7fp50g7188j2sryl5mwr0000gn/T/rust_mozprofileft2QaN"
+1595667656192	Marionette	INFO	Listening on port 53710
+1595667656208	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595667659167	Marionette	INFO	Stopped listening on port 53545
+1595667747398	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/q39n7fp50g7188j2sryl5mwr0000gn/T/rust_mozprofileYsJOFV"
+1595667749122	Marionette	INFO	Listening on port 54261
+1595667749164	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1595667851751	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/q39n7fp50g7188j2sryl5mwr0000gn/T/rust_mozprofileuNtE63"
+1595667853473	Marionette	INFO	Listening on port 54893
+1595667853519	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: "getLayout@resource://devtools/server/actors/styles.js:1013:5\nhandler@resource://devtools/shared/protocol/Actor.js:162:37\nonPacket@resource://devtools/server/devtools-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2245))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.child2/pagestyle26 (resource://devtools/server/actors/styles.js:1013:5)", "resource://devtools/shared/protocol/Front.js", 323))
+1595668238559	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/q39n7fp50g7188j2sryl5mwr0000gn/T/rust_mozprofile3oNuaU"
+1595668240480	Marionette	INFO	Listening on port 57052
+1595668240514	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595668285761	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/q39n7fp50g7188j2sryl5mwr0000gn/T/rust_mozprofilebMYjeA"
+1595668287692	Marionette	INFO	Listening on port 57385
+1595668287721	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595668416152	Marionette	INFO	Stopped listening on port 54893
+1595668417974	Marionette	INFO	Stopped listening on port 57052
+1595668419779	Marionette	INFO	Stopped listening on port 54261
+1595668422107	Marionette	INFO	Stopped listening on port 53710
+1595668424381	Marionette	INFO	Stopped listening on port 57385
+1595668431224	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/q39n7fp50g7188j2sryl5mwr0000gn/T/rust_mozprofileysbzZm"
+1595668432998	Marionette	INFO	Listening on port 58240
+1595668433094	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595668476502	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/q39n7fp50g7188j2sryl5mwr0000gn/T/rust_mozprofilempiFWK"
+1595668478249	Marionette	INFO	Listening on port 58545
+1595668478256	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595668507476	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/q39n7fp50g7188j2sryl5mwr0000gn/T/rust_mozprofileU0Hpl2"
+1595668509532	Marionette	INFO	Listening on port 58774
+1595668509555	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595668515292	Marionette	INFO	Stopped listening on port 58545
+1595668516261	Marionette	INFO	Stopped listening on port 58240
+1595668549583	Marionette	INFO	Stopped listening on port 60777
+1595668556638	Marionette	INFO	Stopped listening on port 58774
+1595668559293	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/q39n7fp50g7188j2sryl5mwr0000gn/T/rust_mozprofileRzYreD"
+1595668561076	Marionette	INFO	Listening on port 59135
+1595668561155	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1595668731129	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/q39n7fp50g7188j2sryl5mwr0000gn/T/rust_mozprofile7DOZOS"
+1595668733040	Marionette	INFO	Listening on port 60132
+1595668733098	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595668760829	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/q39n7fp50g7188j2sryl5mwr0000gn/T/rust_mozprofile7wlR3G"
+1595668762664	Marionette	INFO	Listening on port 60357
+1595668762691	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595668922501	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/q39n7fp50g7188j2sryl5mwr0000gn/T/rust_mozprofileUbIqNC"
+1595668924465	Marionette	INFO	Listening on port 61321
+1595668924471	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1595669024418	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/q39n7fp50g7188j2sryl5mwr0000gn/T/rust_mozprofilefARRCF"
+1595669026231	Marionette	INFO	Listening on port 61938
+1595669026280	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595669079185	Marionette	INFO	Stopped listening on port 60132
+1595669081052	Marionette	INFO	Stopped listening on port 60357
+1595669091085	Marionette	INFO	Stopped listening on port 61938
+1595669094579	Marionette	INFO	Stopped listening on port 59135
+1595669324335	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/q39n7fp50g7188j2sryl5mwr0000gn/T/rust_mozprofilePaBQLf"
+1595669326157	Marionette	INFO	Listening on port 63703
+1595669326203	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595669373129	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/q39n7fp50g7188j2sryl5mwr0000gn/T/rust_mozprofilexs46M0"
+1595669374955	Marionette	INFO	Listening on port 64026
+1595669375003	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595669379739	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1595669491311	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/q39n7fp50g7188j2sryl5mwr0000gn/T/rust_mozprofile3j89xY"
+1595669493229	Marionette	INFO	Listening on port 64735
+1595669493282	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595669520069	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/q39n7fp50g7188j2sryl5mwr0000gn/T/rust_mozprofileRF22NI"
+1595669521872	Marionette	INFO	Listening on port 64956
+1595669521949	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595669573480	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/q39n7fp50g7188j2sryl5mwr0000gn/T/rust_mozprofile6OJ7vU"
+1595669575556	Marionette	INFO	Listening on port 65307
+1595669575650	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595671981667	Marionette	INFO	Stopped listening on port 64735
+1595671991640	Marionette	INFO	Stopped listening on port 64956
+1595671993582	Marionette	INFO	Stopped listening on port 64026
+1595671995879	Marionette	INFO	Stopped listening on port 63703
+1595671998679	Marionette	INFO	Stopped listening on port 65307
+1595672001322	Marionette	INFO	Stopped listening on port 61321
+1595679939805	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/q39n7fp50g7188j2sryl5mwr0000gn/T/rust_mozprofileUSd3nv"
+1595679942156	Marionette	INFO	Listening on port 59017
+1595679942160	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595680107713	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/q39n7fp50g7188j2sryl5mwr0000gn/T/rust_mozprofile0RYR4w"
+1595680109537	Marionette	INFO	Listening on port 59134
+1595680109564	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595680180532	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/q39n7fp50g7188j2sryl5mwr0000gn/T/rust_mozprofilecau4XE"
+1595680182409	Marionette	INFO	Listening on port 59205
+1595680182499	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595680215717	Marionette	INFO	Stopped listening on port 59017
+1595680217426	Marionette	INFO	Stopped listening on port 59134
+1595680220504	Marionette	INFO	Stopped listening on port 59205
+1595680225713	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/q39n7fp50g7188j2sryl5mwr0000gn/T/rust_mozprofilenSaIEe"
+1595680227557	Marionette	INFO	Listening on port 59272
+1595680227580	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595680232320	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1595680272480	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/q39n7fp50g7188j2sryl5mwr0000gn/T/rust_mozprofileuhDiU6"
+1595680274194	Marionette	INFO	Listening on port 59338
+1595680274230	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595680290071	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:853:16
+dispatch/</req<@chrome://marionette/content/listener.js:527:14
+dispatch/<@chrome://marionette/content/listener.js:520:15
+1595680290072	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+1595680354540	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/q39n7fp50g7188j2sryl5mwr0000gn/T/rust_mozprofiledh501R"
+1595680356237	Marionette	INFO	Listening on port 59407
+1595680356290	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595680372218	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:853:16
+dispatch/</req<@chrome://marionette/content/listener.js:527:14
+dispatch/<@chrome://marionette/content/listener.js:520:15
+1595680372219	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+1595680372220	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+1595680372220	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+1595680372221	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+1595680372222	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+1595680584673	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/q39n7fp50g7188j2sryl5mwr0000gn/T/rust_mozprofileRTejgY"
+1595680586705	Marionette	INFO	Listening on port 59541
+1595680586743	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595680602298	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:853:16
+dispatch/</req<@chrome://marionette/content/listener.js:527:14
+dispatch/<@chrome://marionette/content/listener.js:520:15
+1595680602300	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+1595680602301	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+1595680602302	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+1595680602303	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+1595680602304	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1595681072950	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/q39n7fp50g7188j2sryl5mwr0000gn/T/rust_mozprofile1WFGle"
+1595681074910	Marionette	INFO	Listening on port 59730
+1595681075002	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1595681370280	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/q39n7fp50g7188j2sryl5mwr0000gn/T/rust_mozprofile9zwxYK"
+1595681372212	Marionette	INFO	Listening on port 59825
+1595681372229	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595681528866	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/q39n7fp50g7188j2sryl5mwr0000gn/T/rust_mozprofilek0Qmi7"
+1595681530595	Marionette	INFO	Listening on port 59905
+1595681530622	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595681580167	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/q39n7fp50g7188j2sryl5mwr0000gn/T/rust_mozprofileQM3TH0"
+1595681581977	Marionette	INFO	Listening on port 59972
+1595681582034	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595686327706	Marionette	INFO	Stopped listening on port 59338
+1595686329707	Marionette	INFO	Stopped listening on port 59407
+1595686334837	Marionette	INFO	Stopped listening on port 59272
+1595686337215	Marionette	INFO	Stopped listening on port 59541
+1595686339283	Marionette	INFO	Stopped listening on port 59730
+1595686342060	Marionette	INFO	Stopped listening on port 59825
+1595686344239	Marionette	INFO	Stopped listening on port 59905
+1595686350199	Marionette	INFO	Stopped listening on port 59972
+1595686354002	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/q39n7fp50g7188j2sryl5mwr0000gn/T/rust_mozprofilevhhMQq"
+1595686355855	Marionette	INFO	Listening on port 60282
+1595686355969	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151101, line 1: TypeError: window.safari is undefined
+JavaScript error: https://www.gstatic.com/recaptcha/releases/r8WWNwsCvXtk22_oRSVCCZx9/recaptcha__en.js, line 28: TypeError: t.H is null
+JavaScript error: https://www.gstatic.com/recaptcha/releases/r8WWNwsCvXtk22_oRSVCCZx9/recaptcha__en.js, line 28: TypeError: t.H is null
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://apis.google.com/_/scs/apps-static/_/js/k=oz.gapi.en_US.WuHGBC70tdw.O/m=gapi_iframes,gapi_iframes_style_common/rt=j/sv=1/d=1/ed=1/am=wQc/rs=AGLTcCNpHoaMoiiRyTFOuGnNuTT-eiD9VA/cb=gapi.loaded_0, line 246: TypeError: a is null
+1595687935332	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/q39n7fp50g7188j2sryl5mwr0000gn/T/rust_mozprofileBDZHrw"
+1595687937221	Marionette	INFO	Listening on port 61253
+1595687937295	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595688016210	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/q39n7fp50g7188j2sryl5mwr0000gn/T/rust_mozprofileDMi0na"
+1595688018395	Marionette	INFO	Listening on port 61339
+1595688018471	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1595688061656	Marionette	INFO	Stopped listening on port 60282
+1595688065085	Marionette	INFO	Stopped listening on port 61253
+1595688070802	Marionette	INFO	Stopped listening on port 61339
+1595688074213	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/q39n7fp50g7188j2sryl5mwr0000gn/T/rust_mozprofilel6FK4E"
+1595688075902	Marionette	INFO	Listening on port 61421
+1595688075968	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595688170896	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/q39n7fp50g7188j2sryl5mwr0000gn/T/rust_mozprofilegSU5cg"
+1595688172598	Marionette	INFO	Listening on port 61490
+1595688172640	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1595688364025	Marionette	INFO	Stopped listening on port 61490
+1595688366508	Marionette	INFO	Stopped listening on port 61421
+1595688374317	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/q39n7fp50g7188j2sryl5mwr0000gn/T/rust_mozprofiledB7IY5"
+1595688376048	Marionette	INFO	Listening on port 61565
+1595688376060	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1595688575998	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/q39n7fp50g7188j2sryl5mwr0000gn/T/rust_mozprofile6J7U1u"
+1595688577837	Marionette	INFO	Listening on port 61643
+1595688577956	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1595688646284	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/q39n7fp50g7188j2sryl5mwr0000gn/T/rust_mozprofileYPb3QN"
+1595688648042	Marionette	INFO	Listening on port 61715
+1595688648129	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595844326460	Marionette	INFO	Stopped listening on port 61565
+1595844328440	Marionette	INFO	Stopped listening on port 61643
+1595844330233	Marionette	INFO	Stopped listening on port 61715
+1595852649537	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/q39n7fp50g7188j2sryl5mwr0000gn/T/rust_mozprofileZXGVMX"
+1595852652908	Marionette	INFO	Listening on port 49767
+1595852653000	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595852745421	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wc/q39n7fp50g7188j2sryl5mwr0000gn/T/rust_mozprofile93iB1X"
+1595852747140	Marionette	INFO	Listening on port 49837
+1595852747169	Marionette	WARN	TLS certificate errors will be ignored for this session
