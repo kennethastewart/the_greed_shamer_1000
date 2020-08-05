@@ -1,4 +1,4 @@
-from selenium import webdriver
+rom selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 import time
 import config
@@ -15,7 +15,7 @@ class InstagramPostAutomated:
         profile = webdriver.FirefoxProfile()
         profile.set_preference("general.useragent.override", user_agent)
         self.bot = webdriver.Firefox(profile)
-
+    #
     def login(self):
         bot = self.bot
         bot.get('http://www.instagram.com/')
@@ -28,10 +28,9 @@ class InstagramPostAutomated:
         emailInput.send_keys(self.username)
         passwordInput.send_keys(self.password)
         passwordInput.send_keys(Keys.ENTER)
-        time.sleep(3)
+        time.sleep(5)
         notNowBtn = bot.find_element_by_xpath('//button[text()="Not Now"]')
         notNowBtn.click()
-
         time.sleep(3)
 
 
@@ -40,14 +39,19 @@ class InstagramPostAutomated:
         bot = self.bot
         postBtn = bot.find_element_by_xpath('//div[@data-testid="new-post-button"]')
         postBtn.click()
-        keyboard.press('t')
-        keyboard.release('t')
+        # keyboard.press('t')
+        # keyboard.release('t')
+        # keyboard.press(Key.tab)
+        # keyboard.release(Key.tab)
+        # keyboard.press(Key.tab)
+        # keyboard.release(Key.tab)
         keyboard.press(Key.enter)
-        time.sleep(1)
+        keyboard.release(Key.enter)
+        time.sleep(4)
         nextBtn = bot.find_element_by_xpath('//button[text()="Next"]')
         nextBtn.click()
-        time.sleep(2)
+        time.sleep(5)
         captionBox = bot.find_element_by_xpath('//textarea[@aria-label="Write a caption…"]')
-        captionBox.send_keys("Testing an instagram bot - test 1")
+        captionBox.send_keys("Swans from May - Testing an instagram bot - Raspberry PI ")
         shareBtn = bot.find_element_by_xpath('//button[text()="Share"]')
         shareBtn.click()
